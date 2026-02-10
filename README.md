@@ -286,7 +286,7 @@ cargo run -- tui
 
 ## ⚠️ Disclaimer
 
->[!disclaimer]
+>[!warning]
 > This software is **for educational and personal use**. The developer is not responsible for misuse, data loss, or security breaches. Always use strong passwords and encryption keys responsibly.
 
 ## 🖥 GUI / Terminal Interface
