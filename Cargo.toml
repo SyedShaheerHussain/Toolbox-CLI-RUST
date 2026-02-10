@@ -1,0 +1,38 @@
+[package]
+name = "toolbox"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
+clap = { version = "4.5", features = ["derive"] }
+clap_complete = "4.5"
+
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+
+base64 = "0.22"
+data-encoding = "2.6"
+urlencoding = "2.1"
+regex = "1.10"
+uuid = { version = "1.7", features = ["v4"] }
+
+sha2 = "0.10"
+hmac = "0.12"
+
+aes = "0.8"
+cbc = "0.1"
+rand = "0.8"
+hex = "0.4"
+
+flate2 = "1.0"
+cron = "0.12"
+chrono = "0.4"
+
+colored = "2.2"
+similar = "2.7"
+lipsum = "0.9"
+
+ratatui = "0.26"
+crossterm = "0.27"
+atty = "0.2.14"
+jsonwebtoken = "9"
