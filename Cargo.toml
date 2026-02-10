@@ -34,5 +34,5 @@ lipsum = "0.9"
 
 ratatui = "0.26"
 crossterm = "0.27"
-atty = "0.2.14"
+atty = "0.5"
 jsonwebtoken = "10"
